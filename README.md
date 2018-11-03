@@ -29,7 +29,7 @@ Then open [http://localhost:3000/](http://localhost:3000/) to see the app workin
 ![sample run 4](https://github.com/AmrHendy/AI-8puzzle/blob/master/samples/img4.png)
 
 ## Documentation
-For more details about used algorithms and samples see the simple [documentation](https://github.com/AmrHendy/AI-8puzzle/blob/master/documentation/doc%20.pdf) 
+For more details about used algorithms and samples see the simple [documentation](https://github.com/AmrHendy/AI-8puzzle/blob/master/documentation/doc.pdf) 
 
 ## Authors
 * **Amr Hendy** [AmrHendy](https://github.com/AmrHendy)
